@@ -24,7 +24,7 @@ git clone https://github.com/Xyt564/cpp-projects.git
 ```
 
 ```bash
-cd Task-manager
+cd cpp-projects/Task-manager/
 ```
 
 ### 2. Compile the Program
