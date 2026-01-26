@@ -67,6 +67,12 @@ All values, delays, and messages are randomized or hardcoded for effect.
 * Linux or macOS
 * `ncurses` installed
 
+### install ncurses
+
+```bash
+sudo apt install libncurses-dev
+```
+
 ### Compile
 
 ```bash
