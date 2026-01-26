@@ -1,6 +1,4 @@
----
-
-# Fake Network Ping (Terminal Prank)
+## Fake Network Ping (Terminal Prank)
 
 A **terminal-based prank program** written in C++ that *looks* like it’s performing a network ping on a phone number — but doesn’t actually do anything malicious, network-related, or real.
 
